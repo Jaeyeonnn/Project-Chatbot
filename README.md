@@ -1,8 +1,8 @@
-Objective: 
+## Objective: 
 Making an interactive chatbot for the BLCK UNICRN platform.
 
-Methodology:
+## Methodology:
 Used LangChain, Llama, Google Gemini, Hugging Face, and Streamlit to enhance the chatbot’s performance with the LAG model.
 
-URL:
+## URL:
 https://blckunicrnai.com
